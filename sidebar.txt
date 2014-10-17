@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kuf:home|Door43 (kuf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kuf|d43-kuf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kuf/archive/master.zip|d43-kuf.zip]]
+
+**Recent Changes**
+{{changes>ns = kuf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kuf|Ethnologue data]]
+
